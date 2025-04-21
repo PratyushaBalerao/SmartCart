@@ -1,1 +1,1 @@
-# SmartCart
+// README.md placeholder for SmartCart
